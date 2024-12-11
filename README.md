@@ -5,11 +5,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=traviszuleger&theme=dark&hide_border=true" alt="traviszuleger" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traviszuleger&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="traviszuleger" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=traviszuleger&label=Profile%20views&color=0e75b6&style=flat-square" alt="traviszuleger" />
  
   <h1>Public Projects</h1> 
   
   | Project           | URL                        | Description                                         |
   |:-----------------:|:--------------------------:|:---------------------------------------------------:|
+  | Kinship ORM       |                            | Database agnostic Query-Builder / ORM with C#'s EFC Fluent API feel |
 </div>
