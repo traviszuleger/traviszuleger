@@ -8,10 +8,10 @@
  
   <h1>Public Projects</h1> 
   
-  | Project           | URL                        | Description                                         |
-  |:-----------------:|:--------------------------:|:---------------------------------------------------:|
-  | Kinship ORM       |                            | Node.js Database agnostic Query-Builder / ORM with C#'s EFC Fluent API feel |
-  | UnitSpan          |                            | Node.js utility library dedicated for converting various units of measurement. (E.g., TimeSpan, DigiSpan, TempSpan, etc.) |
-  | Atrium.js         |                            | Node.js support library for [CDVI's Atrium Controller SDK](https://mrdltd.atlassian.net/wiki/spaces/PUB/pages) |
-  | Fluxject          |                            | Node.js simple dependency-injection support library. |
+  | Project           | Description                                         |
+  |:-----------------:|:---------------------------------------------------:|
+  | [Kinship](https://github.com/kinshipjs) | Node.js Database agnostic Query-Builder / ORM with C#'s EFC Fluent API feel |
+  | [UnitSpan](https://github.com/tzuleger/unitspan) | Node.js utility library dedicated for converting various units of measurement. (E.g., TimeSpan, DigiSpan, TempSpan, etc.) |
+  | [Atrium](https://github.com/tzuleger/atrium-node) | Node.js support library for [CDVI's Atrium Controller SDK](https://mrdltd.atlassian.net/wiki/spaces/PUB/pages) |
+  | [Fluxject](https://github.com/tzuleger/fluxject) | Node.js simple dependency-injection support library. |
 </div>
