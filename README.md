@@ -13,4 +13,5 @@
   | Kinship ORM       |                            | Node.js Database agnostic Query-Builder / ORM with C#'s EFC Fluent API feel |
   | UnitSpan          |                            | Node.js utility library dedicated for converting various units of measurement. (E.g., TimeSpan, DigiSpan, TempSpan, etc.) |
   | Atrium.js         |                            | Node.js support library for [CDVI's Atrium Controller SDK](https://mrdltd.atlassian.net/wiki/spaces/PUB/pages) |
+  | Fluxject          |                            | Node.js simple dependency-injection support library. |
 </div>
